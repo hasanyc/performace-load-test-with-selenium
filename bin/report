@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1634908047452,2055,Welcome Page,200,OK,LG-STG 1-1,text,true,,29996,0,1,1,https://adminprod.us.lg.com/admin/common/login.lg?SSL=Y&source=cms&returnurl=http://wwwstg.us.lg.com/us,0,0,0
+1634908049527,1788,Staging Login,500,"Error communicating with the remote browser. It may have died.
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-VNOG7NT', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3c60ea5c891544ad96568adf807de86f, findElement {using=class, value=noticeTtl}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\HASSAN~1.BHU\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:56448}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(system), se:cdp: ws://localhost:56448/devtoo..., se:cdpVersion: 94.0.4606.81, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c60ea5c891544ad96568adf807de86f",LG-STG 1-1,text,false,,3098,0,1,1,null,0,0,0
